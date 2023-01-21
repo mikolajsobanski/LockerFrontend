@@ -1,0 +1,23 @@
+.div-subheader{
+   padding: 1em;
+}
+.subheader-button{
+    margin: 0.3em;
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    padding: 0.6em;
+    height: 5vh;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+}
+.subheader-row{
+    padding: 0.6em;
+    
+    
+}
+.subheader-link{
+    text-decoration: none;
+    color: white;
+
+}
